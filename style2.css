@@ -65,7 +65,39 @@
   .MRbean {
       background-image: url(./gambar/MR\ bean.jpg);
   }
-  
+  .ouija {
+    background-image: url(./gambar/ouija.jpg);
+  }
+  .scoobydoo {
+    background-image: url(./gambar/scooby\ doo.jpg);
+  }
+  .spiderman {
+    background-image: url(./gambar/spiderman.jpg);
+  }
+  .spongebob {
+    background-image: url(./gambar/spongebob.jpg);
+  }
+  .TomANDjerry {
+    background-image: url(./gambar/TomANDjerry.jpg);
+  }
+  .toystory {
+    background-image: url(./gambar/toystory4.jpg);
+  }
+  .cars {
+     background-image: url(./gambar/cars.jpg);
+  }
+  .Garfield {
+    background-image: url(./gambar/Garfield.jpg);
+  }
+  .Terminator {
+    background-image: url(./gambar/Terminator.jpg);
+  }
+  .venom {
+    background-image: url(./gambar/venom.jpg);
+  }
+  .minions {
+    background-image: url(./gambar/minions.jpg);
+  }
   /* deskripsi */
   .deskripsi {
     padding: 30px;
@@ -88,6 +120,7 @@
   .box {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
   }
   .box img {
     height: 360px;
